@@ -4,7 +4,7 @@ A zero-dependency, dark-themed retail operations command center transforming raw
 
 A responsive, high-performance, single-page Business Intelligence (BI) command room and web dashboard. This application transforms raw operational datasets from `Bi_task_dataset_analysis_by_rocktim.xlsx` into an interactive executive command interface designed for manager sales tracking, shop follow-up analytics, and loan recovery auditing.
 
-🖥️ **Live Web Application:** https://rocktimbarua.github.io/Case-study-on-Hishabee-/`
+🖥️ **Live Web Application:** https://rocktimbarua.github.io/Case-study-on-Hishabee-/
 
 ---
 
